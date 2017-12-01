@@ -6,7 +6,7 @@ body {
   font-weight: 300;
   color: #111;
   background: #edeff0;
-  background-image:url(../svgs/background.svg);
+  background-image:url(svgs/background.svg);
 }
 
 #container {
